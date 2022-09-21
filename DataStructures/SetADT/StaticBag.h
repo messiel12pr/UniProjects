@@ -6,7 +6,7 @@
 * Author: Juan O. Lopez
 ******************************************/
 
-//!CLASS USED FOR SET ADT IMPLEMENTATION USING OBJECT COMPOSITION!
+//!CLASS PROVIDED BY PROFESSOR TO BUILD SET ADT USING OBJECT COMPOSITION!
 
 #include <iostream>
 

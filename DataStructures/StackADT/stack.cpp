@@ -4,7 +4,7 @@ Joel M. Gonzalez Rodriguez	840-21-9588
 
 #include <ctime>
 #include <iostream>
-#include "stackHeader.h"
+#include "stack.h"
 #define TAMANOMAXIMO 100
 
 using namespace std;
